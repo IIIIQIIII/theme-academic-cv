@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Ma Shijian
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shijian
+last_name: Ma
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💫
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -183,4 +183,12 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! My name is Ma Shijian, and I am passionate about the transformative potential of artificial intelligence. With a background in computer science and a deep interest in machine learning, I have dedicated my career to exploring and advancing AI technologies.
+
+Over the years, I have worked on a variety of projects that leverage AI to solve real-world problems. From developing algorithms that enhance medical diagnostics to creating intelligent systems for automated decision-making, my goal is to harness the power of AI to make a positive impact on society.
+
+I believe that AI has the potential to revolutionize industries, improve quality of life, and address some of the world's most pressing challenges. Through research, development, and collaboration, I strive to contribute to the ethical and responsible advancement of AI technologies.
+
+In addition to my technical work, I am also committed to fostering public understanding and dialogue about AI. I regularly speak at conferences, write articles, and engage with the community to discuss the opportunities and challenges that AI presents.
+
+Feel free to connect with me to discuss all things AI, share ideas, or collaborate on exciting projects. Together, we can shape the future of artificial intelligence!
